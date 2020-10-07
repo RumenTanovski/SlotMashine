@@ -1,0 +1,2 @@
+# SlotMashine
+Console application
